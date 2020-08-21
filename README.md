@@ -72,7 +72,7 @@ This section should assign every feature in the previous section to a particular
 * By 5/29: Write torque abstractions and tests. Be at the point of debugging torque. 
 * By 6/1: Debug torque and integrate in demo with collisions. Add different types of beavers. 
 * By 6/5: Add collision effects/visuals.
-* 
+
 
 
 ### Arielle: 
