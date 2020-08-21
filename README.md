@@ -38,7 +38,8 @@ Below we indicate the features that each group member is working on. Beside each
 * (3) Text (integrating text with SDL, adding text to the demo) Importantly, adding text to prompt the user (start screen, level ups)
 * (4) Sound effects (integrating sound effects with SDL, adding them to the demo)
 
-### Mohini (Focus on Forces, especially Torque. Also, note, not gievn a priority 1 feature because we forsee the torque abstraction being highly complex and time-consuming.) 
+### Mohini (Focus on Forces, especially Torque)
+(Also, note, not gievn a priority 1 feature because we forsee the torque abstraction being highly complex and time-consuming.) 
 * (2) Torque abstraction (implementing rotational dynamics such that collisions with structures move structures about their center of mass to provide a more realistic visual. This will include writing create_torque in forces.c which will use the center of mass of a body as a fulcrum around which the torque is applied. Also includes writing tests.)
 * (3) Different types of beavers (adding beavers with special features to vary how collisions happen in the game)
 * (4) Collisions visuals (adding explosion visuals/ sounds during collisions)
